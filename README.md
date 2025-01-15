@@ -1,0 +1,2 @@
+- building different scripts to use twitter api to do fun things
+- tech : python, twitter api, tweepy (python library)
